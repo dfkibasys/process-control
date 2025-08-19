@@ -17,7 +17,6 @@
 	<description>BaSys 4.2 Process Control Services</description>
 
 	<modules>
-        <module>modules/shared-model</module>
 		<module>modules/task-channel-camunda-cc</module>
 		<module>modules/task-channel-mqtt-cc</module>
 		<module>modules/cc-task-manager</module>
