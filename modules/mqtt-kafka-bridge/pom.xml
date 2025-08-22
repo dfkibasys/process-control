@@ -20,7 +20,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>de.dfki.cos.basys.processcontrol</groupId>
+			<groupId>de.dfki.cos.basys</groupId>
 			<artifactId>shared-model</artifactId>
 			<version>${project.version}</version>
 		</dependency>
